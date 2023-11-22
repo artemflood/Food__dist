@@ -8,8 +8,8 @@ function forms(formSelector, timerId) {
 
     const message = {
         loading: 'img/form/spinner.svg',
-        success: 'Спасибо! Скоро ми с вами свяжемся',
-        failure: 'что-то пошло не так'
+        success: 'Дякую! Скоро з вами зв`яжемось',
+        failure: 'Щось пішло не так'
     }
 
     forms.forEach(item => {

@@ -20,7 +20,7 @@ window.addEventListener('DOMContentLoaded', () => {
     calc();
     cards();
     forms('form',timerId);
-    timer('.timer', '2021-10-20');
+    timer('.timer', '2024-05-20');
     sliders({
         container:'.offer__slider',
 nextArrow: '.offer__slider-next',
